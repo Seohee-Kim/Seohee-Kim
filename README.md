@@ -1,10 +1,7 @@
-### ✨ I'm interested in... ✨
- - Python Modeling🐍
- - MySQL🐬
- - NLP Embedding
- - Deep learning
- - API
- - IT&Software Testing (NET, KTR, TTA) 
+## ✨ As Pythoner, I'm interested in...
+* Building automation process
+* Improving ML/DL model
+* Studying NLP embedding and Regex
 
 <!--
 **Seohee-Kim/Seohee-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
